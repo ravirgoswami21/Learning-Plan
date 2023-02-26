@@ -23,6 +23,9 @@
 21. Spring Shell
 22. Observability
 23. Testing
+24. Build Tool - Maven / Gradle
+25. Shell Scripting
+
 
 # Database
 1. What is DB
