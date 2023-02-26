@@ -32,7 +32,7 @@
 4. JVM Architecture - Source Code Execution
 5. Garbage Collector
 6. JVM Options
-7. Java Class Compontent - Package(Defination,Import,Static Import) , class (interface, abstract class) , Variables, Blocks, Constructor, Methods, Enum, Annotations
+7. Java Class Compontent - Package(Defination,Import,Static Import) , class (interface, abstract class) , Variables and Data Types, Blocks, Constructor, Methods, Enum, Annotations
 8. Package(Defination,Import,Static Import)
 9. Main Method
 10. Hashcode , Equals and toString
