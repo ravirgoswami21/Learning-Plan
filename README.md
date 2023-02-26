@@ -25,6 +25,8 @@
 23. Testing
 24. Build Tool - Maven / Gradle
 25. Shell Scripting
+26. Kibana/Splunk -- Logstash and FileBeat
+27. Sonar and checkstyle Customization
 
 
 # Database
@@ -78,6 +80,8 @@
 # Code Practice 
 1. Design Patterns
 2. SOLID Principles
-3. Standards while writing Code
+3. Standards while writing Code - Best Practices
+4. Code Smells
+5. Space and Time Complexity
 
 # Multi Threading
