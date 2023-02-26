@@ -1,6 +1,6 @@
 # Learning-Plan
 
-1. Core Java with MultiThreading - Till Java 17
+1. Core Java with MultiThreading - Till Java 17 , Junit and Mockito
 2. Spring Boot - Data JPA, Swagger, Spring AOP, Spring Batch, Logging, Exception Handling, Lombok, Actuator, Configuration, Profiles
 3. React JS with HTML ,CSS, JavaScript,Ajax and BootStap
 4. MicroService - Spring Cloud, Spring Cloud Config, Spring Cloud Discovery,Spring Cloud Routing,Cloud Messaging, Circuit Breaker
