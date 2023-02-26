@@ -22,3 +22,42 @@
 20. Spring Shell
 21. Observability
 22. Testing
+
+
+# Core Java
+
+1. Java Overview - 
+2. JDK, JRE, JVM, Compiler, Interpreter and JIT
+3. Memory Managment
+4. JVM Architecture - Source Code Execution
+5. Garbage Collector
+6. JVM Options
+7. Java Class Compontent - Package(Defination,Import,Static Import) , class (interface, abstract class) , Variables, Blocks, Constructor, Methods, Enum, Annotations
+8. Package(Defination,Import,Static Import)
+9. Main Method
+10. Hashcode , Equals and toString
+11. Access Modifiers
+12. Static and Final
+13. Java Keywords
+14. Operator
+15. Loop - for, while, do-while
+16. Conditional - If Else, Switch Case, Goto, Continue, Break
+17. Call by Value and Call by Reference
+18. Object Class
+19. OOPS Concept - Abstraction, Encapsulation, Inheritance
+20. Super and this
+21. Exception Handlling with Custom Exception --> Hierarchy, try ,Catch, Finally, Throw and Throws, Try with Multiple Resource
+22. String , String Builder and String Buffer
+23. Immutable and Singleton
+24. Clonable and Seriallizable
+25. Java IO/NIO
+26. Java Util - Set List Map
+27. Java Lang
+28. Java Reflection
+29. Matcher
+30. Java 1.8 to java 1.17
+
+# Code Practice 
+Design Patterns
+SOLID Principles
+Standards while writing Code
