@@ -58,6 +58,6 @@
 30. Java 1.8 to java 1.17
 
 # Code Practice 
-Design Patterns
-SOLID Principles
-Standards while writing Code
+1. Design Patterns
+2. SOLID Principles
+3. Standards while writing Code
